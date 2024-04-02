@@ -1,0 +1,48 @@
+.section{
+    background-color: beige;
+    border-bottom: 10px solid darkred;
+    height: 25px;
+    width: 100%;
+    text-align: right;
+}
+
+.section-1{
+    background-color: grey;
+   border-bottom: 10px solid darkred
+   height: 100px;;
+}
+
+
+.header{ 
+    text-align: center;
+    font-weight: 900;
+    text-align: center;
+    color:green;
+}
+.body{
+    text-align: center;
+    color:green;
+}
+
+footer{
+    height: 40px;
+    width: 100%;
+    background-color: cornflowerblue;
+    color: White;
+
+}
+
+.head{
+    height: 5000px;
+    width: 10000%;
+    border-bottom: 10px solid darkblue;
+    background-color: #999900;
+    }
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 75%;
+height: 50px;
+}
